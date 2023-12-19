@@ -1,2 +1,2 @@
 # Motor_Cont._PCB_Board
-This repo. will have all files of this PCB
+In this repo. I will share all design files belongs to this PCB board.
